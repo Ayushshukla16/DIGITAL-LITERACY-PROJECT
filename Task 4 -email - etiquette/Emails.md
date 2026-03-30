@@ -2,7 +2,7 @@
 
 ## 1. Formal: Requesting an Extension
 **To:** Professor  
-**Subject:** Request for Extension: Digital Literacy Project - Aniket Thakur (25BAI1190)
+**Subject:** Request for Extension: Digital Literacy Project - Ayush shukla (25BAI10014)
 
 Dear Professor,
 
@@ -11,14 +11,14 @@ I am writing to respectfully request a short extension on the submission deadlin
 Thank you for your time and consideration.
 
 Sincerely,
-Aniket Thakur
+Ayush shukla
 B.Tech AI & ML, 1st Year
 
 ---
 
 ## 2. Professional: Internship Inquiry
 **To:** Internship Coordinator  
-**Subject:** Inquiry Regarding Summer Internship Opportunities - Aniket Thakur
+**Subject:** Inquiry Regarding Summer Internship Opportunities - Ayush shukla
 
 Dear Internship Coordinator,
 
@@ -27,35 +27,9 @@ I am a first-year B.Tech student at VIT Bhopal specializing in Artificial Intell
 I have attached my resume for your review and look forward to hearing from you.
 
 Best regards,
-Aniket Thakur
+Ayush shukla
 VIT Bhopal University
 
 ---
 
-## 3. Peer Collaboration: Ayush Shukla
-**To:** Ayush Shukla  
-**Subject:** Quick question about the Python assignment – Aniket
 
-Hi Ayush,
-
-Hope you're doing well! I was working on the Task 3 coding challenge we discussed earlier, and I’m hitting a small snag with the logic. Since you're also working on it, would you be down to jump on a quick Discord call later tonight to compare notes?
-
-Let me know what time works for you.
-
-Cheers,
-Aniket
-
----
-
-## 4. Resource Sharing: Ayush Shukla
-**To:** Ayush Shukla  
-**Subject:** Check this out! Found a cool AI roadmap for us
-
-Hey Ayush,
-
-I just came across this Python roadmap for building real-world AI projects. Since we both wanted to dive deeper into Machine Learning this semester, I thought you'd find this super useful. 
-
-Let me know if you want to try building one of the beginner projects together!
-
-Talk soon,
-Aniket
