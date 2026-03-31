@@ -1,7 +1,3 @@
-Here is a **complete README.md file** you can directly copy and upload to your GitHub repository for this Digital Literacy Portfolio project:
-
----
-
 # 📘 Digital Literacy Portfolio
 
 * **Course Code:** CSE0001
