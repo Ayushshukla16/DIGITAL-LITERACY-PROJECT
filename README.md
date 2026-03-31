@@ -4,10 +4,10 @@ Here is a **complete README.md file** you can directly copy and upload to your G
 
 # 📘 Digital Literacy Portfolio
 
-**Course Code:** CSE0001
-**Student Name:** *Ayush Shukla*
-**Registration Number:** *25BAI10014*
-**Branch/Year:** *AI ML / 1st Year*
+* **Course Code:** CSE0001
+* **Student Name:** *Ayush Shukla*
+* **Registration Number:** *25BAI10014*
+* **Branch/Year:** *AI ML / 1st Year*
 
 ---
 
